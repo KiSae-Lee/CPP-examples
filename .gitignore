@@ -1,3 +1,7 @@
+# Exclude build fies.
+out
+
+# CMake default excludes.
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
